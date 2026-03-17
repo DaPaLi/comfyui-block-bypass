@@ -4,9 +4,9 @@ version = "1.0.0"
 description = "1-Klick Block Bypass Switch Node für ComfyUI"
 
 [project.urls]
-Repository = ""
+Repository = "https://github.com/DaPaLi/comfyui-block-bypass"
 
 [tool.comfy]
-PublisherId = ""
-DisplayName = "Block Bypass Switch"
+PublisherId = "DaPaLi"
+DisplayName = "ComfyUI Block Bypass Switch"
 Icon = ""
